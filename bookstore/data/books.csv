@@ -1,0 +1,2 @@
+book_id,title,author,category_id,available,isbn,publication_date
+1,Python Programming,John Doe,1,True,,2019-07-11
